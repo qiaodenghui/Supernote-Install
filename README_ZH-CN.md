@@ -1,5 +1,8 @@
 # Supernote APK 安装工具
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Supernote-green.svg)
+
 [English](./README.md) | 简体中文 | [繁體中文](./README_ZH-TW.md) | [日本語](./README_JA.md) | [한국어](./README_KO.md)
 
 ## 📖 项目简介
@@ -160,3 +163,4 @@ chmod +x adb
 ## ⭐ 觉得有用？
 
 如果这个项目帮助到了您，请给个 Star 支持一下！
+
