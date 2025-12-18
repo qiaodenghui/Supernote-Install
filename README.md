@@ -1,5 +1,8 @@
 # Supernote APK Installation Tool
 
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Supernote-green.svg)
+
 English | [简体中文](./README_ZH-CN.md) | [繁體中文](./README_ZH-TW.md) | [日本語](./README_JA.md) | [한국어](./README_KO.md)
 
 ## 📖 Introduction
